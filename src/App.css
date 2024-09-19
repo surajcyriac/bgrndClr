@@ -1,0 +1,25 @@
+.innerdiv{
+  display: flex;
+  justify-content: center;
+
+}
+button{
+  border-radius: 10px;
+  padding: 10px;
+padding: 20px;  
+}
+.button1{
+  background-color: rgb(247, 158, 50);
+}
+.button2{
+  background-color: rgb(76, 118, 244);
+}
+.button3{
+  background-color: rgb(12, 197, 12);
+}
+.button4{
+  background-color: rgb(172, 63, 223);
+}
+.button5{
+  background-color: rgb(237, 51, 51);
+}
